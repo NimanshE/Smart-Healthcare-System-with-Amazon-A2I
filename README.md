@@ -12,7 +12,7 @@ The Smart Healthcare System is a cloud-native application that leverages Amazon 
 - **Web-Based Frontend**: Upload documents and view processing results through a simple web interface
 
 ## Architecture
-![System Architecture](architecture.png)
+![System Architecture](arch_diagram.png)
 
 The system follows a serverless architecture pattern with the following components:
 1. **Storage Layer**: Amazon S3 buckets for input data and processed results
